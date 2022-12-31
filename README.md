@@ -8,7 +8,7 @@ Install Neptune with GitHub
 ### Make sure you already have Python3 and PHP>=7.4 installed on your machine
 
 ```bash
-git clone https://github.com/BlakvGhost/Neptune.git
+git clone https://github.com/Neptune/Neptune.git
 ```
 
 Host the project on a local server for your test, or host it on a shared hosting service or a VPS.
@@ -47,9 +47,10 @@ For login Form, connect you
 **Server:** PHP, CodeIgniter4
 
 ## Authors
+- [@v1p3r75](https://github.com/v1p3r75)
+
 - [@BlakvGhost](https://github.com/BlakvGhost)
 
-- [@v1p3r75](https://github.com/v1p3r75)
 
 ## License
 
@@ -59,4 +60,4 @@ For login Form, connect you
 
 ## Support
 
-For support, email me on kabirou2001@gmail.com or join our Slack channel.
+For support, email me on elfriedv16@gmail.com or join our Slack channel.
